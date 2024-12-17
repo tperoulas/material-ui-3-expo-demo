@@ -53,36 +53,6 @@ src/
   └── hooks/          # Custom React hooks
 ```
 
-## Features Demo
-
-### Theme System
-- Dynamic theme switching
-- Custom theme creation
-- Color system demonstration
-
-### Components
-- Buttons (Elevated, Filled, Outlined, Text)
-- Cards
-- Dialogs
-- Navigation components
-- Lists
-- Text inputs
-- Selection controls
-- Progress indicators
-- Snackbars
-- Bottom sheets
-
-### Motion
-- State changes
-- Navigation transitions
-- Component animations
-- Gesture responses
-
-### Typography
-- Complete type scale
-- Dynamic type scaling
-- Font customization
-
 ## Contributing
 
 Contributions are welcome! Please read our contributing guidelines before submitting pull requests.
